@@ -1,0 +1,2 @@
+# odin
+Odoo Installation manager
